@@ -1,0 +1,41 @@
+/* app/styles/AnimatedDivs.module.css */
+
+.dance_div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: #111;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  /* Add animation to move the boxes */
+  .animate {
+    animation: moveBox 1s forwards, fadeIn 1s forwards;
+  }
+  
+  @keyframes moveBox {
+    0% {
+      transform: translateY(50px); /* Start from below */
+    }
+    100% {
+      transform: translateY(0); /* End at the original position */
+    }
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0; /* Initially invisible */
+    }
+    100% {
+      opacity: 1; /* Become visible */
+    }
+  }
+  

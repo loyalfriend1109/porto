@@ -1,0 +1,26 @@
+/* styles/FallingStars.module.css */
+.starField {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.star {
+  position: absolute;
+  top: -10px; /* Start above the screen */
+  width: 5px;
+  height: 5px;
+  background-color: white;
+  border-radius: 50%;
+  animation: fall linear infinite;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(100vh); /* Move from top to bottom */
+  }
+}
