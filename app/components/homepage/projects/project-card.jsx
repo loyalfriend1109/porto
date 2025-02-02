@@ -73,7 +73,7 @@ function ProjectCard({ project }) {
         <Image
           src={project.profile}
           alt="Hero"
-          width={1572}
+          width={1900}
           height={400}
           className='h-full max-h-120 object-contain lg:object-cover'
         />
