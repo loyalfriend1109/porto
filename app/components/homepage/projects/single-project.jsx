@@ -43,8 +43,8 @@ const SingleProject = ({ project }) => {
           <Image
             src={image ? image?.src : placeholder}
             alt={name}
-            width={1080}
-            height={720}
+            width={1920}
+            height={768}
             className="w-80 h-64 transition-opacity duration-[0.7s] delay-[0.3s] rounded-lg group-hover:opacity-0"
           />
         </div>
