@@ -137,10 +137,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Roman Livinskyi",
-  profile: "/profile.png",
+  name: "Ivan Zabusov",
+  profile: "/ivanprofile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Roman Livinskyi....",
+  description: "My name is Ivan Zabusov....",
  };
 ```
 
