@@ -26,7 +26,7 @@ function AboutSection() {
             src={personalData.profile}
             width={350}
             height={350}
-            alt="Roman Livinskyi"
+            alt="Ivan Zabusov"
             className="rounded-lg transition-all duration-1000 hover:scale-110 cursor-pointer"
           />
         </div>
