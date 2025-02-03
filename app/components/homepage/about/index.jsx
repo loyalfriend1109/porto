@@ -23,7 +23,7 @@ function AboutSection() {
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
-            src= "https://i.ibb.co/JwhLyCT8/photo-2025-01-05-09-55-00.jpg"
+            src= {personalData.profile}
             width={350}
             height={350}
             alt="Ivan Zabusov"
