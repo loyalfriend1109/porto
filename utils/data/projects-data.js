@@ -7,7 +7,7 @@ export const projectsData = [
         role: 'WordPress Developer',
         code: '',
         demo: '',
-        profile: 'https://i.ibb.co/C5fCMtvs/wordpress.png',
+        profile: '/png/wordpress.png',
         url: 'https://nndltd.co.uk/',
     },
     {

@@ -3,12 +3,12 @@ export const educations = [
     id: 1,
     title: "Bachelor of Computer Application",
     duration: "2018 - 2022",
-    institution: "Taras Shevchenko National University of Kyiv",
+    institution: "V. N. Karazin Kharkiv National University",
   },
   {
     id: 2,
     title: "Higher Secondary Certificate",
-    duration: "2016 - 2018",
-    institution: "Lviv Physics and Mathematics Lyceum",
+    duration: "2017 - 2018",
+    institution: "IT STEP Computer Academy",
   }
 ]
