@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'CMS Expert - WordPress, Shopify, Wix | Full Stack Dev - MERN, Django',
+    title: 'Full Stack Developer - MERN, Django | AI Expert',
     company: "Upwork",
     duration: "(Dec 2024 - Present)"
   },
