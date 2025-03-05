@@ -142,8 +142,8 @@ export const TeamWork = [
     },
     {
         id: 21,
-        title: 'Netflix Movie Recommendation System Using Machine Learning',
-        description: "This is an AI project. What we do here is take in 10000+ data on movies and recommend the user 5 movies that they searched or viewed using the content-based filtering approach with machine learning.",
+        title: 'Data Visualization Using Microsoft Power BI',
+        description: "This project showcases various data visualization projects created using Microsoft Power BI software, renowned for its capabilities in data visualization and analytics. The visualizations are presented in the form of interactive dashboards, designed to simplify and enhance data understanding. Through these projects, I have developed fundamental skills in Power BI, leveraging its features to create insightful visual representations of data. Each dashboard offers a unique perspective on the underlying data, providing valuable insights for decision-making and analysis. With these projects, I aim to demonstrate my proficiency in leveraging Power BI for effective data visualization and analysis, highlighting its importance in deriving actionable insights from complex datasets.",
         profile: 'https://i.ibb.co/XZLJksn8/ai-project6.jpg',
         url: 'https://aravinds2002-collab.github.io/AiProjects-portfolio/single5.html',
     },
