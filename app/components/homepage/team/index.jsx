@@ -35,7 +35,7 @@ function Blog({ team }) {
           role="button"
           href="/blog"
         >
-          <span>Team Work</span>
+          <span>All Projects</span>
           <FaArrowRight size={16} />
         </Link>
       </div>
