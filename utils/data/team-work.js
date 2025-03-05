@@ -104,4 +104,11 @@ export const TeamWork = [
         profile: '/team-work/image (15).png',
         url: 'https://cinchshare.com/',
     },
+    {
+        id: 16,
+        title: 'Real Time Traffic Density Analysis Using Yolo V11',
+        description: 'This project implements a real-time traffic analysis system using the YOLOv11 object detection model. It processes video frames to detect vehicles, evaluates traffic intensity, and logs the results. The system allows users to define an Area of Interest (AOI) for vehicle counting and since I made use of a pre-trained YOLO v11 model, there is not much thing to do about performance evaluation.',
+        profile: 'https://i.ibb.co/ycJk5ghG/TRAFFIC1.jpg',
+        url: 'https://aravinds2002-collab.github.io/AiProjects-portfolio/single11.html',
+    },
 ];
